@@ -1,0 +1,59 @@
+Pais	Year	publicaciones	investigadores	gasto
+Argentina	2015	11079	82407	
+Barbados	2015	110		
+Bolivia	2015	311		
+Brasil	2015	50806	316822	
+Canadá	2015	89975		
+Chile	2015	9680	13015	
+Colombia	2015	5108	10050	
+Costa Rica	2015	727	4228	
+Cuba	2015	909	3853	
+Ecuador	2015	1060		
+El Salvador	2015	98	1001	
+España	2015	74536	214227	
+Estados Unidos	2015	603371		
+Guatemala	2015	267	602	
+Guyana	2015	34		
+Haiti	2015	127		
+Honduras	2015	97	207	
+Jamaica	2015	248		
+México	2015	16110	42222	
+Nicaragua	2015	94		
+Panamá	2015	526		
+Paraguay	2015	168	1985	
+Perú	2015	1605	3374	
+Portugal	2015	17979	81005	
+Puerto Rico	2015	991	2070	
+República Dominicana	2015	136		
+Trinidad y Tobago	2015	246	1277	
+Uruguay	2015	1196	2288	
+Venezuela	2015	1086	10824	
+Argentina	2016	11205	83947	
+Barbados	2016	115		
+Bolivia	2016	313		
+Brasil	2016	53819		
+Canadá	2016	92224		
+Chile	2016	10495	14199,67	
+Colombia	2016	5692	13001	
+Costa Rica	2016	776	3885	
+Cuba	2016	956	6839	
+Ecuador	2016	1428		
+El Salvador	2016	93	941	
+España	2016	75677	218680	
+Estados Unidos	2016	614923		
+Guatemala	2016	249		
+Guyana	2016	40		
+Haiti	2016	126		
+Honduras	2016	78		
+Jamaica	2016	259		
+México	2016	17434		
+Nicaragua	2016	116		
+Panamá	2016	528		
+Paraguay	2016	175	1619	
+Perú	2016	1636		
+Portugal	2016	18728	85780	
+Puerto Rico	2016	1054		
+República Dominicana	2016	133		
+Trinidad y Tobago	2016	222	1375	
+Uruguay	2016	1246	2641	
+Venezuela	2016	1033	10382	

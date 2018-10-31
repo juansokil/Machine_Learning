@@ -1,0 +1,72 @@
+
+---
+title: "Regresion"
+author: "Juan Pablo Sokil"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Carga de librerias##
+
+```{r}
+library(readr)
+library(broom)
+library(dplyr)
+```
+
+
+
+
+base <- read.delim2('./Machine_Learning/Regression/base.txt', sep='\t', encoding = 'Latin-1')
+
+train <- base %>% filter (Year==2015)
+test <- base %>% filter (Year==2016)
+
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+
+####MODELO INICIAL
+###Modelo Lineal###
+fit_lm <- lm(publicaciones ~ investigadores, data=train)
+
+###coeficientes###
+coef(fit_lm)
+
+###valores predichos###
+fitted.values(fit_lm)
+
+# Mean of the residuals
+###para que sirve??
+mean(residuals(fit_lm))
+
+# Compute RMSE
+sqrt(sum(residuals(fit_lm)^2) / df.residual(fit_lm))
+
+
+# Glimpse the resulting data frame
+glimpse(fit_lm)
+
+
+
+
+
+
+
+###Modelo Logineal###
+fit_llm <- lm(log(publicaciones) ~ log(investigadores), data=train)
+
+
+
+predict(fit, train)
+
